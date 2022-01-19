@@ -16,5 +16,6 @@
 </a>
 
 ## 💻 Last month's activity
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href=""><img alt="jwrookie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jwrookie&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/jwrookie/jwrookie">
+  <img alt="jwrookie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jwrookie&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>

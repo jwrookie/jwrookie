@@ -1,7 +1,7 @@
 ### Hi 👋 I'm jwrookie
 
 # - 🔭 I’m currently working on [api7.ai](https://www.apiseven.com/)
-- 🌱 I’m currently learning `《重构 改善既有代码的设计第二版》`
+- 🌱 I’m currently learning `solidity` and `how to defi`
 - 📫 How to reach me: machowei01@gmail.com
 
 ## Github Stats

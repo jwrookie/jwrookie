@@ -1,6 +1,5 @@
 ### Hi 👋 I'm jwrookie
 
-# - 🔭 I’m currently working on [api7.ai](https://www.apiseven.com/)
 - 🌱 I’m currently learning `solidity` and `how to defi`
 - 📫 How to reach me: machowei01@gmail.com
 

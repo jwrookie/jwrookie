@@ -1,5 +1,6 @@
 ### Hi 👋 I'm jwrookie
 
+- 📝 I regulary write articles on https://www.yuque.com/jw-go
 - 🌱 I’m currently learning `solidity` and `how to defi`
 - 📫 How to reach me: machowei01@gmail.com
 
